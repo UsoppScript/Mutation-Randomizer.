@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/1484vrIoWk/0", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/OGBjDwgTrw/0", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UsoppScript/Mutation-Randomizer/refs/heads/main/Mutation%20Randomizer.txt"))()
